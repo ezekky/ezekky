@@ -8,8 +8,8 @@
   <a href="https://www.w3schools.com/mysql/" target="_blank"><img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://www.sap.com/" target="_blank"><img align="center" alt="SAP" height="30" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
   <br><br>
-  <a href="https://www.w3schools.com/wordpress/" target="_blank"><img align="center" alt="Wordpress" height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-  <a href="https://www.w3schools.com/blogger/" target="_blank"><img align="center" alt="Blogger" height="30" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
+  <a href="https://wordpress.com/" target="_blank"><img align="center" alt="Wordpress" height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  <a href="https://www.blogger.com/" target="_blank"><img align="center" alt="Blogger" height="30" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
   <br><br>
   <img align="center" alt="Microsoft_Excel" height="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Microsoft_Word" height="30" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
