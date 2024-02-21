@@ -11,9 +11,9 @@
   <a href="https://wordpress.com/" target="_blank"><img align="center" alt="Wordpress" height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
   <a href="https://www.blogger.com/" target="_blank"><img align="center" alt="Blogger" height="30" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
   <br><br>
-  <img align="center" alt="Microsoft_Excel" height="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Microsoft_Word" height="30" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-  <img align="center" alt="Potoshop" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank"><img align="center" alt="Microsoft_Excel" height="30" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank"><img align="center" alt="Microsoft_Word" height="30" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Potoshop" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
   <br><br>
   <img align="center" alt="Potoshop" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <br><br>
