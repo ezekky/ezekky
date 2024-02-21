@@ -8,9 +8,8 @@
   <img align="center" alt="BOOTSTRAP" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="SAP" height="30" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-  <br>
-   <br>
-  <img align="center" alt="Potoshop" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <br><br>
+  <img align="center" alt="Potoshop" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg">
 </div>
 
  ### Redes Sociais:
