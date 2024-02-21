@@ -17,9 +17,9 @@
   <br><br>
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
   <br><br>
-  <img align="center" alt="Visual_Studio_Code" height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img align="center" alt="Notepad++" height="30" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-  <img align="center" alt="Android_Studio" height="30" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Visual_Studio_Code" height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  <a href="https://notepad-plus-plus.org/" target="_blank"><img align="center" alt="Notepad++" height="30" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
+  <a href="https://developer.android.com/studio?hl=pt-br" target="_blank"><img align="center" alt="Android_Studio" height="30" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
 </div>
 
 #
