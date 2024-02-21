@@ -9,7 +9,7 @@
   <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="SAP" height="30" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
   <br><br>
-  <img align="center" alt="Potoshop" height="20" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Potoshop" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 </div>
 
  ### Redes Sociais:
