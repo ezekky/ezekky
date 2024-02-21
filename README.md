@@ -4,9 +4,9 @@
   <a href="https://www.w3schools.com/html/" target="_blank"><img align="center" alt="HTML5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS3" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.w3schools.com/php/" target="_blank"><img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="https://www.w3schools.com/BOOTSTRAP/" target="_blank"><img align="center" alt="BOOTSTRAP" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-  <a href="https://www.w3schools.com/MYSQL/" target="_blank"><img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="https://www.w3schools.com/SAP/" target="_blank"><img align="center" alt="SAP" height="30" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
+  <a href="https://www.w3schools.com/boostrap/" target="_blank"><img align="center" alt="BOOTSTRAP" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="https://www.w3schools.com/mysql/" target="_blank"><img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.sap.com/" target="_blank"><img align="center" alt="SAP" height="30" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"></a>
   <br><br>
   <img align="center" alt="Wordpress" height="30" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img align="center" alt="Blogger" height="30" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
