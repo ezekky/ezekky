@@ -18,6 +18,7 @@
   <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img align="center" alt="Potoshop" height="30" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
   <br><br>
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/" target="_blank"><img align="center" alt="GitHub" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <br><br>
   <a href="https://code.visualstudio.com/" target="_blank"><img align="center" alt="Visual_Studio_Code" height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   <a href="https://notepad-plus-plus.org/" target="_blank"><img align="center" alt="Notepad++" height="30" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></a>
