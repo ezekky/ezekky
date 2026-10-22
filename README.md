@@ -23,7 +23,7 @@
 
 ---
 
-## `01 / IDENTIDADE`
+## `01`
 
 > **Não programo apenas para fazer funcionar. Programo para transformar ideias em experiências.**
 
@@ -40,7 +40,7 @@ Meu trabalho vive na interseção entre **educação + engenharia + criatividade
 └───────────────────────────────────────────────────────────┘
 ```
 
-## `02 / LABORATÓRIO DIGITAL`
+## `02`
 
 ### Projetos que merecem ser explorados
 
@@ -108,7 +108,7 @@ Soluções, protótipos e experimentos para automatizar tarefas e ampliar o que 
 
 > **Quer deixar esta seção realmente única?** Substitua cada link pelo endereço real do projeto e, se tiver uma imagem ou logo, adicione uma miniatura no card.
 
-## `03 / ARSENAL TECNOLÓGICO`
+## `03`
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Soluções, protótipos e experimentos para automatizar tarefas e ampliar o que 
 
 </div>
 
-## `04 / GITHUB TELEMETRY`
+## `04`
 
 <div align="center">
 
@@ -167,7 +167,7 @@ Soluções, protótipos e experimentos para automatizar tarefas e ampliar o que 
 
 > Os painéis de estatísticas são gerados por serviços externos e podem demorar para carregar. Eles precisam do seu nome de usuário correto.
 
-## `05 / PRINCÍPIOS DE CONSTRUÇÃO`
+## `05`
 
 <div align="center">
 
@@ -180,7 +180,7 @@ Soluções, protótipos e experimentos para automatizar tarefas e ampliar o que 
 
 Acredito que o melhor jeito de aprender tecnologia é **construindo**. Por isso, valorizo projetos práticos, experimentação, criatividade e o compartilhamento de conhecimento.
 
-## `06 / ESTAMOS CONSTRUINDO O FUTURO`
+## `06`
 
 Tem uma ideia, um projeto ou uma possibilidade de colaboração? Vamos transformar isso em algo real.
 
