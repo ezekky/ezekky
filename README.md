@@ -32,7 +32,7 @@ Sou **Ezequiel Lopes**, professor de Educação Digital e desenvolvedor apaixona
 Meu trabalho vive na interseção entre **educação + engenharia + criatividade**: crio projetos digitais, exploro novas ferramentas e transformo conceitos complexos em experiências que as pessoas conseguem usar, jogar e aprender.
 
 ```text
-┌─ EZEKIEL.OS ─────────────────────────────────────────────┐
+┌─ Ezekky     ─────────────────────────────────────────────┐
 │  ROLE       Professor • Desenvolvedor • Criador          │
 │  MISSION    Tornar a tecnologia prática, criativa e útil │
 │  INTERESTS  Web / Games / IA / Educação / Open Source    │
@@ -106,8 +106,6 @@ Soluções, protótipos e experimentos para automatizar tarefas e ampliar o que 
   </tr>
 </table>
 
-> **Quer deixar esta seção realmente única?** Substitua cada link pelo endereço real do projeto e, se tiver uma imagem ou logo, adicione uma miniatura no card.
-
 ## `03`
 
 <div align="center">
@@ -165,8 +163,6 @@ Soluções, protótipos e experimentos para automatizar tarefas e ampliar o que 
 
 </div>
 
-> Os painéis de estatísticas são gerados por serviços externos e podem demorar para carregar. Eles precisam do seu nome de usuário correto.
-
 ## `05`
 
 <div align="center">
@@ -195,6 +191,6 @@ Tem uma ideia, um projeto ou uma possibilidade de colaboração? Vamos transform
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,50:7C3AED,100:00E5FF&section=footer" width="100%" alt=""/>
 
-<sub>EZEKIEL.OS // Feito com curiosidade, café e muitas linhas de código.</sub>
+<sub>Ezekky // Feito com curiosidade, café e muitas linhas de código.</sub>
 
 </div>
