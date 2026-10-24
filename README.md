@@ -37,7 +37,7 @@ Meu trabalho vive na interseção entre **educação + engenharia + criatividade
 │  MISSION    Tornar a tecnologia prática, criativa e útil │
 │  INTERESTS  Web / Games / IA / Educação / Open Source    │
 │  MODE       BUILDING THE NEXT THING...                   │
-└───────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────┘
 ```
 
 ## `02`
